@@ -1,0 +1,10 @@
+- 👋 Hello, I’m @chiarxw, Chiara Brancalion!
+- 
+- I'm brazilian, currently studying and living in Santa Catarina.
+- I’m interested in backend development and bioinformatics.
+- I’m currently learning Python and JavaScript :)
+- I’m looking to collaborate on website constructing, software development with Python and Node.js and data analysis with SQL, along with Tableau and Power BI! 
+- You can know more about me on LinkedIn -> www.linkedin.com/in/chiara-brancalion-5263412a0
+-   And contact me at > chiara.brancalion18@gmail.com < xD
+- Pronouns: She/Her
+- ⚡ Fun fact: I'm now enrolling a Bachelor's Degree in Biological Sciences at the University of the State of Santa Catarina with Bioinformatics emphasis. <3
